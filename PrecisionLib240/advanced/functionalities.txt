@@ -1,0 +1,16 @@
+1. AES Encryption
+2. RSA Encryption
+3. SHA-256 Hashing
+4. Observer Design
+5. Merkle Tree
+6. Floyd-Warshall Algorithm
+7. Regular Expressions
+8. Thread Pool 
+9. WebSocket Communication
+10 Image Resizing
+11 Image Cropping
+12 Concurrency Operators
+13 JSON Parsing
+14 Compression
+15 Decompression
+ 
